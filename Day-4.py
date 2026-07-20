@@ -21,3 +21,4 @@ img = cv2.imread(r"C:\Users\professer_kartik\Downloads\file_00000000c13c7206a343
 cv2.imshow("Image", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+

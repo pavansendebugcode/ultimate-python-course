@@ -1,3 +1,8 @@
+
+# Question 1: Create a simple calculator 
+
+
+
 a = int(input('Enter your first number = '))
 b = int(input('Enter your second number = '))
 c = input('What do you want to do (+, -, *, /, %) = ')

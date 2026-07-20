@@ -20,5 +20,9 @@ print("Hello world ")
 
 print("Hello sonic \n how are you \n i am fine \n what about you \n i am also fine")
 
+# can i say somthing yes i am say my life is not good but the reality of my life is very easy
+# This is reality of my life 
+
+
 
 
