@@ -1,8 +1,8 @@
 # What is string
 # String is a enclosed between single and double quators 
-# like
+# like and such as
 
-a = "Hi, I am kartik sen From Bina "
+a = "Hi, I am kartik sen From Bina   "
 b = "Zuned"
 c = "sachinandsonic"
 

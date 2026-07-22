@@ -7,8 +7,6 @@ online for the function which does that.
 CHAPTER 01
 4. Write a python program to print the contents of a directory using the os module. Search
 5. Label the program written in problem 4 with comments'''# This is a multi line comments
-
-
 a = "Twinkle, twinkle, little star,\n\tHow I wonder what you are\n\t up above the world so high,\n\tlike a diamond in the sky."
 print(a)
 
