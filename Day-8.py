@@ -1,4 +1,4 @@
-# Today topic is what is typecastion in python language
+# What is typecastion in python language
 # Typecasting in python converts the data one type to another data type.
 # Typecasting is two types
  # 1. Explicit Conversion (Explicit type casting in python)
