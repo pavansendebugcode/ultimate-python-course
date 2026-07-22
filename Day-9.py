@@ -10,9 +10,9 @@ c = "sachinandsonic"
 
 print("Hello", a)
 
-# Multiline strings
+# Multiline strings  
 
-z = """ Hi, I am kartik every person who is see my code is very
+z = """ Hi, I am kartik every person who is see my code is very 
         jenious because I am very jenious but you know my friend is very jenious such as 
         piyush sacchu khan """
 # This is a multiline strings 
