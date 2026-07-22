@@ -36,3 +36,4 @@ print("Hello", T)
 u = input("Enter your date of birth  = ")
 
 print("This date of birth is very funny ", u)
+print("you are very lucky")
