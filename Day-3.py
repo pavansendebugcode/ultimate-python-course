@@ -1,14 +1,16 @@
 # Today we can dicuss a comment in python programming Language. 
 # A comment is a piece of text that they can not execute in the program.
+# 
 
 
-# Comments are used to explain the code
+# Comments are used to explain the code we can use a comments are explain a code
 
 # Comments are two type 
 # 1. single line comment
 # 2. multi line comment
 
 print("Hello world ")
+print("Hi I am kartik")
 
 # Zunead is the brillent student of our class. (This is a single line comment)
 
