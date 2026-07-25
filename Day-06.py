@@ -8,7 +8,7 @@
 
 
 '''Arithmetic operators
-Operator	Operator Name	Example
+Operator	Operator Name 	Example
 +	Addition	15+7
 -	Subtraction	15-7
 *	Multiplication	5*7
