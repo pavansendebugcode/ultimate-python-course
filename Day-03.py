@@ -9,7 +9,7 @@
 # 1. single line comment
 # 2. multi line comment
 
-print("Hello world ")
+print(" Hello world ")
 print("Hi I am kartik")
 
 # Zunead is the brillent student of our class. (This is a single line comment)
