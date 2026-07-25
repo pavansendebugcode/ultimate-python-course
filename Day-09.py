@@ -1,5 +1,5 @@
 # What is string
-# String is a enclosed between single and double quators 
+# String is a enclosed between  single and double quators 
 # like and such as
 
 a = "Hi, I am kartik sen From Bina   "
