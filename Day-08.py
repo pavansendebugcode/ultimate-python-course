@@ -24,7 +24,7 @@ print(type(z), z)
 # Today is also learning about the input function in python programming language
 # the input function is used to take input from the user 
 # Input function provides a value as a string data type.
-# But we can convert to other data type using typecasting 
+# But we can  convert to other data type using typecasting 
 
 T = input("Enter your name = ")
 print("Hello", T)
