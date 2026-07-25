@@ -2,7 +2,7 @@
 # I am excited to start this journey and explore the various concepts and features of the language.
 
 #My first program will be a simple "Hello, world"
-print("Hello, world")
+print("Hello, world New world")
 
 #lease note that this is just the beginning, and I will be Learning more about Python programming in the coming days.
 
