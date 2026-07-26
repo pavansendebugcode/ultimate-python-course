@@ -4,7 +4,7 @@ import time
 a = time.strftime('%H:%M:%S' )
 print("The current time is ", a)
 b = int(time.strftime('%H'))
-print("The hours is ", b ,"hours")
+print("The hours is  ", b ,"hours")
 c = time.strftime("%M")
 print("The minute is ", c ,"Minute")
 d = time.strftime("%S" )
