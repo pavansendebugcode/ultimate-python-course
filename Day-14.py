@@ -31,7 +31,6 @@ for i in range(1, 100, 2):
 # continue statment - continue statement are used to skip particular value 
 g = 1
 while g<10:
-    
     g += 1
     if g == 5:
         continue
