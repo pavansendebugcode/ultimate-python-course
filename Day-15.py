@@ -4,7 +4,6 @@
 #  1. Build in function like min(), max(), range(), etc
 #  2. user define function
 
-
 def average(a, b):
     c = (a+b)/2
     print(c)
@@ -28,8 +27,6 @@ def kartik(zuned, sachin):
 
 
 kartik("sonic", "eigenvalue")
-
-
 
 # Arguments of Function in python programming 
 # Four type of arguments in py
