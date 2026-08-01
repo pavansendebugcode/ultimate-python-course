@@ -21,3 +21,8 @@ def square():
 square()
 
 print(square.__doc__)
+
+# Different between comments and doc strings in python 
+
+#  comments are always ignore in python but doc strings are not ignore in python doc string are defined functons, classes, and modules to provide information about their purpose and usage,
+# you can try to  import this in your repl .
