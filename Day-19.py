@@ -2,12 +2,6 @@
 
 print
 a = ["who is the prime minister in india", "who is the president of india", 'who is the first president of india' ]
-'''def answer(a, b):
-    if b == 'NARENDRA MODI' or 'dropati murmu' or 'rajendra prasad':
-        print('right answer')
-    else :
-        print('this is wrong anwer')'''
-
 
 print(a[0])
 b = input("what is answer = ")
@@ -49,18 +43,3 @@ print('you are so lucky you are win large money')
 
 
 
-'''print(a[1])
-c = input('what is answer = ')
-
-if c == 'DROPATI MURMU':
-    print('yes right answer')
-else:
-    print('Wrong answer')
-
-def answer(a,b):
-    if a == 'NARENDRA MODI' or 'dropati murmu' or 'rajendra prasad':
-        print('right answer')
-    else:
-        print('wrong answer')
-'''
-        
