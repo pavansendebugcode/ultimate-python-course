@@ -11,15 +11,5 @@ b  = a(int(input('enter a number to find factorial: ')))
 print(b)
 
 
-# find fibonacci series using recursion
+# Quize find fibonacci series using recursion
 
-def fibonacci(n):
-    if n<= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-
-print(fibonacci(5))
