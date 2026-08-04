@@ -30,8 +30,8 @@ print(dict)
 
 #  2. clear Method = clear method are use to clear the dictonary
 
-#dict.clear()
-#print(dict)
+# dict.clear()
+# print(dict)
 
 # 3. pop Method = pop method are use to remove the key value pair from dictonay
 
