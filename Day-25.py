@@ -30,6 +30,7 @@ try:
         print(f'Multiplication table is {a}')
         for i in range(1, 11):        
             print(f' {a}x{i} =  {a*i}')
+            
 
     multi()
 except IndexError  :
@@ -38,3 +39,9 @@ except IndexError  :
 finally:
     print('hi')
 
+# Hello friend only last concept i will learn today
+# custom error - custom error are mode by own  using raise keywoard
+
+p = int(input('Enter the number 0 to 10/; '))
+if p<0 or p>10:
+    raise ValueError ('invaild input')
