@@ -13,9 +13,7 @@ if a<b:
 else :                       # similar to above plobem
     print('a is large')
 
-
 (a == 100)  if a > b  else print('sorry index error')
-
 
 # Today is also dicuss about the what is enmuerate function
 # Enmuerate function are used with loop they also give me index number when loop is work list touple dict.
@@ -34,5 +32,32 @@ for index, k in enumerate(k,):
 
 #for index, k in enumerate(k, start=1):
    # print(index, k)
+
+'''--------------------------------------------------------------------------------------------------------------
+
+virtual box --
+
+ create a virtual environment
+                 
+ python -m venv myenv
+
+
+Activate the virtual enviroment (window)
+
+myenv\Scripts\activate.bat
+
+if using power shell
+ 
+myenv\Scripts\activate.ps1
+
+if using mac os
+
+source myenv/bin/activate
+
+
+--------------------------------------------------------------------------------------------------------------'''
+
+
+
 
 
