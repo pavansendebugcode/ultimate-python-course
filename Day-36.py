@@ -43,6 +43,10 @@ class AI(BETECH):
 y = AI('SACHIN ', 'DIRECTOR', 30)
 y.showh()
 
+# Access specifier in python
+# 1. public access specifier
+# 2. private access specifier
+# 3. protected access specifier
 
 
 class Student:
