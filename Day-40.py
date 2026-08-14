@@ -1,8 +1,6 @@
 # Today we are learn about what is dir(), __dict__() , help(), method in python
 # dir() --> dir() Method are used to find the how to work any function its give me all the information about the class
 
-
-
 # x = [1, 2, 3 , 4 , 5]
 # print(dir(x))
 
@@ -17,24 +15,7 @@ class Emoplyee():
         print(f'My name is {self.name} and i am {self.age} year old and my post is {self.occ}')
 
 
-    
-
 x = Emoplyee('kartik', '20', 'HR')
 x.showdetail()
 print(x.__dict__)
 print(help(Emoplyee))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
