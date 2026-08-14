@@ -1,5 +1,6 @@
 
-# Class Method --> class 
+# Class Method --> class n object-oriented programming, the term "constructor" refers to a special type of method that is automatically executed when an object is created from a class. 
+# The purpose of a constructor is to initialize the object's attributes, allowing the object to be fully functional and ready to use.
 
 
 
