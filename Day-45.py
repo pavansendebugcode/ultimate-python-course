@@ -36,9 +36,8 @@ from gtts import gTTS
 from playsound import playsound
 
 # Text to convert
-text = "sachin is trying to impresss sonic but sonic is reject the sachin"
-
-# Generate the speech (specify language 'en' for English)
+text = "hi i am ai"
+# Generate the speech (speciy language 'en' for English)
 speech = gTTS(text=text, lang='en', slow=False)
 
 # Save the generated audio file
